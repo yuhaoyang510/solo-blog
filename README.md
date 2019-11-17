@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.purelives.cn/my-github-repos)
 * [关于我](https://www.purelives.cn/articles/2019/11/05/1572966603214.html)
 * [Django数据库常用ORM方法](https://www.purelives.cn/articles/2019/11/05/1572959699078.html)
 * [6.后台管理，添加，删除，修改和查询](https://www.purelives.cn/articles/2019/11/05/1572946098277.html)
