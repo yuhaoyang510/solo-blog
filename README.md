@@ -1,4 +1,4 @@
-<p align="center"><img alt="余先生的简单生活" src="https://imgsoul.com/images/2019/11/05/KZFY.png"></p><h2 align="center">
+<p align="center"><img alt="余先生的简单生活" src="https://ftp.bmp.ovh/imgs/2019/11/38cb368a5df8d33d.png"></p><h2 align="center">
 余先生的简单生活
 </h2>
 
